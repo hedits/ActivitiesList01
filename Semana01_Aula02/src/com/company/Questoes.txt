@@ -1,0 +1,30 @@
+Prática 02 - Melhorando nosso algoritmo acima, modifique seu algoritmo de
+forma que continue lendo o peso e a altura de uma pessoa usuária, sendo
+que agora seu programa deve informar se a condição dessa pessoa usuária
+de acordo com a tabela abaixo do resultado do cálculo do Índice de Massa
+Corpórea (IMC). Lembrando que esse cálculo é obtido pela divisão entre o
+valor do seu peso e o quadrado do valor da sua altura.
+
+Prática 03 - Implemente um programa que leia o código do item pedido, a
+quantidade e calcule o valor a ser pago por aquele lanche imprimindo a
+pessoa usuária uma mensagem específica para cada item. Considere que a
+cada execução somente será calculado um item.
+Exemplo da mensagem: Você pediu o item cachorro quente e o valor da sua
+compra foi de {resultado da conta}!
+
+Prática 04 - Faça um algoritmo que mostre os números que são divisíveis de
+um número digitado pela pessoa usuária. Além desse número, o usuário deve
+indicar também o número inicial e final da busca.
+Exemplo:
+Número divisíveis: 9
+De 30 até 238
+
+Prática 05 - Faça um programa que receba um número digitado pela pessoa
+usuária e mostre o menu para selecionar o tipo de cálculo que deve ser
+realizado:
+Raiz quadrada
+A metade
+10% do número
+O dobro
+Sair
+O algoritmo só deve terminar, se o usuário escolher a opção 5.

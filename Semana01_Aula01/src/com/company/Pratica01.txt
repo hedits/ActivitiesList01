@@ -1,0 +1,3 @@
+Prática 01 - Escreva um algoritmo que leia o peso e a altura de uma pessoa
+usuária e informe o seu Índice de Massa Corpórea (IMC). O cálculo é obtido
+pela divisão entre o valor do seu peso e o quadrado do valor da sua altura.

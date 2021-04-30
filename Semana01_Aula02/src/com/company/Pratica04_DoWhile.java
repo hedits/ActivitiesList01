@@ -33,7 +33,7 @@ public class Pratica04_DoWhile {
                     System.out.print("10% do número\nNúmero:");
                     numCalc = scan.nextInt();
                     result =  0.1 * numCalc;
-                    System.out.printf("\n%10 de %d é %.0f\n\n", numCalc, result);
+                    System.out.printf("\n%%10 de %d é %.0f\n\n", numCalc, result);
                 case 4:
                     System.out.print("O dobro\nNúmero:");
                     numCalc = scan.nextInt();

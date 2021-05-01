@@ -1,5 +1,0 @@
-Prática 01 - Crie uma classe para pessoa com as seguintes características:
-● Atributos:
-○ Nome, idade, CNH
-● Metodos:
-○ Dirigir, dormir, comer

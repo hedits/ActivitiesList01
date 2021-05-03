@@ -1,1 +1,1 @@
-Lista de atividades da Semana 01 do LuizaCode.
+Lista de atividades da Semana 01 LuizaCode.
